@@ -1,2 +1,0 @@
-# RoboCup3D
-FC Portugal主体基于Python的RoboCup3D仿真的机器人源码在优化算法和攻防策略后的HUFUT-Engine
